@@ -4,8 +4,15 @@
         <description><![CDATA[Taoesm]]></description>
         <link>https://thegrid.ai/taoesm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 23:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 23:21:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taoesm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[6 TED Talks on artificial intelligence]]></title>
+            <description><![CDATA[<article><h1>6 TED Talks on artificial intelligence</h1><p>Computers are being taught to learn, reason and recognize emotions. In these talks, look for insights -- as well as warnings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c16edbb55f9fcc40b9916ece4c277b47cba83be1.jpg"></article>]]></description>
+            <link>http://www.ted.com/playlists/310/talks_on_artificial_intelligen?utm_campaign=social&amp;utm_medium=referral&amp;utm_source=facebook.com&amp;utm_content=playlist&amp;utm_term=technology</link>
+            <guid isPermaLink="false">fecf6ac1-ca85-4398-941c-b8414cfe0e59</guid>
+            <pubDate>Fri, 03 Jun 2016 23:21:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Self-Assembling Granular Materials Are Changing the Future of Architecture]]></title>
             <description><![CDATA[<article><h1>How Self-Assembling Granular Materials Are Changing the Future of Architecture</h1><p>Architects are toying with exotic new materials that can be poured into place and yet form complex structures Architecture is a conservative discipline, not least because of the exacting standards of stability and safety that all human-made structures must adhere to. The forces acting on and within any structure must be carefully calculated and the design modified accordingly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f90a48366048c8533c36cc0987ee2a5a8526f10.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://numenta.com/blog/machine-intelligence-machine-learning-deep-learning-artificial-intelligence.html</link>
             <guid isPermaLink="false">3ae2d770-8b00-460d-83ab-a0f1efa9f548</guid>
             <pubDate>Fri, 03 Jun 2016 20:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What counts as artificially intelligent? AI and deep learning, explained]]></title>
-            <description><![CDATA[<article><h1>What counts as artificially intelligent? AI and deep learning, explained</h1><p>(Chip Somodevilla/Getty Images) Artificial intelligence seems to have become ubiquitous in the technology industry. AIs, we're told, are replying to our emails on Gmail, learning how to drive our cars, and sorting our holiday photos. Mark Zuckerberg is even building one to help out around the house.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41b003310adb5adec8cadf6901ff7a14167486e0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/2/29/11133682/deep-learning-ai-explained-machine-learning</link>
-            <guid isPermaLink="false">2f9039d5-0cdb-4764-9e89-6ca41180d287</guid>
-            <pubDate>Fri, 03 Jun 2016 20:21:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
