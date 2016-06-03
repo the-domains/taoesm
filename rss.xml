@@ -4,11 +4,17 @@
         <description><![CDATA[Taoesm]]></description>
         <link>https://thegrid.ai/taoesm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 23:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 23:32:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taoesm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ray Kurzweil: Get ready for hybrid thinking]]></title>
+            <link>http://www.ted.com/talks/ray_kurzweil_get_ready_for_hybrid_thinking</link>
+            <guid isPermaLink="false">3022449c-422b-46f9-8929-a00fac49bbf6</guid>
+            <pubDate>Fri, 03 Jun 2016 23:32:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Was Western Philosophy Derived from Eastern Spiritualism?]]></title>
-            <description><![CDATA[<article><h1>Was Western Philosophy Derived from Eastern Spiritualism?</h1><p>In a fascinating piece in this month's issue of The Atlantic , UC Berkeley professor Alison Gopnik details her four-year journey out of a mid-life crisis via David Hume and Buddhism.</p><img src="http://assets2.bigthink.com/system/idea_thumbnails/59830/primary/david_hume.jpg?1443464328"></article>]]></description>
+            <description><![CDATA[<article><h1>Was Western Philosophy Derived from Eastern Spiritualism?</h1><p>In a fascinating piece in this month's issue of The Atlantic , UC Berkeley professor Alison Gopnik details her four-year journey out of a mid-life crisis via David Hume and Buddhism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d378ac43a331a8a1a1cb39b9eecf4bf08ac98e3c.jpg"></article>]]></description>
             <link>http://bigthink.com/ideafeed/western-philosophy-and-the-buddha</link>
             <guid isPermaLink="false">8bae94a4-3e22-433a-aa78-b48bab5aa6f2</guid>
             <pubDate>Fri, 03 Jun 2016 23:21:26 GMT</pubDate>
@@ -68,13 +74,6 @@
             <link>http://motherboard.vice.com/read/elon-musk-simulated-universe-hypothesis</link>
             <guid isPermaLink="false">52ea6b96-8f59-4844-aebd-a7da56fc6353</guid>
             <pubDate>Fri, 03 Jun 2016 22:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 things you need to know about A.I.: Cognitive, neural and deep, oh my!]]></title>
-            <description><![CDATA[<article><h1>5 things you need to know about A.I.: Cognitive, neural and deep, oh my!</h1><p>There's never any shortage of buzzwords in the IT world, but when it comes to A.I., they can be hard to tell apart. There's artificial intelligence, but then there's also machine intelligence. There's machine learning, but there's also deep learning. What's the difference? Here are five things you need to understand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e51bd0c2a4a7443bb093ffab0f806e267b3fe41b.jpg"></article>]]></description>
-            <link>http://www.computerworld.com/article/3040563/enterprise-applications/5-things-you-need-to-know-about-ai-cognitive-neural-and-deep-oh-my.html</link>
-            <guid isPermaLink="false">39ea04c6-2fcf-4477-9f8a-32d3f89a28ae</guid>
-            <pubDate>Fri, 03 Jun 2016 22:57:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
