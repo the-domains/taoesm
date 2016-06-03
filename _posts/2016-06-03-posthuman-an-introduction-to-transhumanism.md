@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=bTMS9y8OVuY'
 title: 'PostHuman: An Introduction to Transhumanism'
-datePublished: '2016-06-03T20:16:10.245Z'
-dateModified: '2016-06-03T20:15:31.032Z'
+datePublished: '2016-06-03T20:17:12.179Z'
+dateModified: '2016-06-03T20:15:58.496Z'
 starred: false
 sourcePath: _posts/2016-06-03-posthuman-an-introduction-to-transhumanism.md
 inFeed: true
