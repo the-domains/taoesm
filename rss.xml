@@ -4,8 +4,15 @@
         <description><![CDATA[Taoesm]]></description>
         <link>https://thegrid.ai/taoesm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 23:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 23:22:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taoesm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Was Western Philosophy Derived from Eastern Spiritualism?]]></title>
+            <description><![CDATA[<article><h1>Was Western Philosophy Derived from Eastern Spiritualism?</h1><p>In a fascinating piece in this month's issue of The Atlantic , UC Berkeley professor Alison Gopnik details her four-year journey out of a mid-life crisis via David Hume and Buddhism.</p><img src="http://assets2.bigthink.com/system/idea_thumbnails/59830/primary/david_hume.jpg?1443464328"></article>]]></description>
+            <link>http://bigthink.com/ideafeed/western-philosophy-and-the-buddha</link>
+            <guid isPermaLink="false">8bae94a4-3e22-433a-aa78-b48bab5aa6f2</guid>
+            <pubDate>Fri, 03 Jun 2016 23:21:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[6 TED Talks on artificial intelligence]]></title>
             <description><![CDATA[<article><h1>6 TED Talks on artificial intelligence</h1><p>Computers are being taught to learn, reason and recognize emotions. In these talks, look for insights -- as well as warnings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c16edbb55f9fcc40b9916ece4c277b47cba83be1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.computerworld.com/article/3040563/enterprise-applications/5-things-you-need-to-know-about-ai-cognitive-neural-and-deep-oh-my.html</link>
             <guid isPermaLink="false">39ea04c6-2fcf-4477-9f8a-32d3f89a28ae</guid>
             <pubDate>Fri, 03 Jun 2016 22:57:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Machine Intelligence vs. Machine Learning vs. Deep Learning vs. Artificial Intelligence (AI)? | Numenta]]></title>
-            <description><![CDATA[<article><h1>What is Machine Intelligence vs. Machine Learning vs. Deep Learning vs. Artificial Intelligence (AI)? | Numenta</h1><p>We are frequently asked how we distinguish our technology from others. This task is made difficult by the fact that there is not an agreed vocabulary; everybody uses the above terms (and other associated terms) differently. In addition, the commonly understood meaning of some of these terms has evolved over time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/919483cbc956622223e1363ce8c92b3fd03862af.png"></article>]]></description>
-            <link>http://numenta.com/blog/machine-intelligence-machine-learning-deep-learning-artificial-intelligence.html</link>
-            <guid isPermaLink="false">3ae2d770-8b00-460d-83ab-a0f1efa9f548</guid>
-            <pubDate>Fri, 03 Jun 2016 20:21:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
