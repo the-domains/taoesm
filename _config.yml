@@ -1,4 +1,3 @@
-layout_spectrum: 0.6611320916563272
 typography_spectrum: 0.21003249613568187
 color:
   brandStrength: 0.8780643837526441
@@ -11,4 +10,9 @@ color:
     - '#A8AD80'
     - '#E6D4A7'
     - '#825534'
+layout_spectrum: 0.6611320916563272
+author:
+  name: Taoest
+  email: taoest1@gmail.com
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/da8e66df-853f-4362-a432-72138ea1bf68.jpg'
 name: Taoesm
